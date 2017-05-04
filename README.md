@@ -7,7 +7,7 @@ A simple and extensible form component:
 
 ### Usage
 
-This is not and NPM module and the repo should be cloned.  It has a demo page as a starting point that you can change and modify for your needs. After cloning the repo, do the following...
+This is not an NPM module and the repo should be cloned.  It has a demo page as a starting point that you can change and modify for your needs. After cloning the repo, do the following...
 
 ```
 npm install
